@@ -1,0 +1,20 @@
+c:\users\serkanb\documents\visual studio 2010\Projects\HuffmanCode_v1\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.exe
+c:\users\serkanb\documents\visual studio 2010\Projects\HuffmanCode_v1\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.pdb
+c:\users\serkanb\documents\visual studio 2010\Projects\HuffmanCode_v1\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.exe
+c:\users\serkanb\documents\visual studio 2010\Projects\HuffmanCode_v1\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.pdb
+C:\Users\serkanb\documents\visual studio 2010\Projects\HuffmanCode_v1\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\huffman console\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\huffman console\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\huffman console\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\huffman console\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\huffman console\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\Huffman with entering string form keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\Huffman with entering string form keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\Huffman with entering string form keybord\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\Huffman with entering string form keybord\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\Huffman with entering string form keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\Huffman with entering string from keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\Huffman with entering string from keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\Huffman with entering string from keybord\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.exe
+C:\Users\Sony\Desktop\Huffman with entering string from keybord\HuffmanCode_v1\bin\Debug\HuffmanCode_v1.pdb
+C:\Users\Sony\Desktop\Huffman with entering string from keybord\HuffmanCode_v1\obj\x86\Debug\HuffmanCode_v1.csprojResolveAssemblyReference.cache
